@@ -1,5 +1,6 @@
 Typewriter Bot Project
 (Only for educational purposes)
+
 Welcome to my homemade Typewriter Bot! Follow the instructions below to get started:
 
 Instructions:
