@@ -3,16 +3,27 @@ Typewriter Bot Project
 Welcome to my homemade Typewriter Bot! Follow the instructions below to get started:
 
 Instructions:
+
 Install the Chrome browser.
+
 Download Python 3.10 from the Microsoft Store.
+
 Note: Do not use a web browser to download Python.
+
 Install the required Python packages:
+
 Open the command line (cmd) and enter the following commands:
+
 pip install webdriver_manager
+
 pip install selenium
+
 Run the Typewriter Bot:
+
 Click on the file Typewriter_Bot.exe.
+
 Ensure it runs with Python 3.10.
+
 Configure the Bot:
 Wait for the bot to start up.
 Set the speed (preferably fast).
