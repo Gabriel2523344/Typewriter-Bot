@@ -1,0 +1,15 @@
+Instructions:
+
+Install the Chrome browser.
+Download Python 3.10 from the Microsoft Store (do not use the browser!).
+In the command line (cmd), enter pip install webdriver_manager.
+In the command line (cmd), enter pip install selenium.
+Click on the file Typewriter_Bot.exe and run it with Python 3.10.
+Wait for the bot to start up.
+Set the speed (preferably fast).
+Adjust the variation (the more, the less noticeable it is to the teacher, but it usually makes the bot slower; 0.2-0.3 is recommended).
+Set the error rate (between 1% and 2% is good).
+After the bot starts, a Chrome tab with the Typewriter website should open. Quickly log in there (before the time runs out).
+I hope you have fun with it!
+
+Best regards, Gabriel S.
